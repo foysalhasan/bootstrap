@@ -1,0 +1,47 @@
+@media (max-width: 575.98px) {
+  .box h1 {
+    font-size: 24px;
+    color: springgreen;
+  }
+  .box h4 {
+    font-size: 18px;
+    color: #ff4646;
+  }
+  .box p {
+    font-size: 14px;
+  }
+  .text_hide {
+    display: none;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .box h1 {
+    font-size: 30px;
+    color: deeppink;
+  }
+  .box h4 {
+    font-size: 20px;
+    color: dodgerblue;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .box h1 {
+    font-size: 40px;
+    color: orange;
+  }
+  .box h4 {
+    font-size: 22px;
+    color: greenyellow;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .box h1 {
+    color: steelblue;
+  }
+  .box h4 {
+    color: yellow;
+  }
+}

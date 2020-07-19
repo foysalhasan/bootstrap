@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Titillium+Web:wght@300;400;600;700;900&display=swap");
+body {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.box {
+  margin: 30px 0px;
+  padding: 30px 20px;
+  background-color: #091b29;
+  border-radius: 10px;
+}
+.box h1 {
+  font-size: 60px;
+  font-weight: 400;
+  color: #ff4646;
+  text-align: center;
+}
+.box h4 {
+  font-size: 24px;
+  color: springgreen;
+  text-align: center;
+}
+.box p {
+  font-size: 16px;
+  color: #ddd;
+  text-align: center;
+  line-height: 1.7;
+}
