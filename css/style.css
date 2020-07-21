@@ -17,6 +17,11 @@ h4 {
   line-height: 150px;
   border-radius: 5px;
 }
+
 .align {
   min-height: 450px;
+}
+
+.bg-dark .box {
+  min-height: 80px;
 }
